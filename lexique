@@ -1,0 +1,10 @@
+# Lexique 
+
+* getElementByID : La méthode getElementById() sert à renvoier un objet représentant l'élément dont la propriété (id) correspond à la chaîne de caractères spécifiée.
+* canvas.getContext : Cette méthode renvoie un contexte de dessin sur le canevas.
+* addEventListener() : La méthode addEventListener() d'EventTarget installe une fonction à appeler chaque fois que l'événement spécifié est envoyé à la cible.
+* Keydown / Keyup : Les événements "keydown" et "keyup" fournissent un code indiquant quelle touche est enfoncée.
+* Draw(): La fonction draw récupère l'élément canvas, et ensuite son contexte 2d. L'objet ctx peut ensuite être utilisé pour dessiner réellement vers le canevas. 
+
+
+(A modifier plus tard)
